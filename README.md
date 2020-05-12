@@ -1,4 +1,4 @@
-# middleground
+# vue-cli3-demo
 
 ## Project setup
 ```
